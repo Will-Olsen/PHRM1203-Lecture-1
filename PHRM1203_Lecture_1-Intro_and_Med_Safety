@@ -1,0 +1,462 @@
+---
+marp: true
+theme: uqpresent
+paginate: false
+---
+
+<style>section { font-size: 25px; }</style>
+
+<style>
+img[alt~="center"] {
+  display: block;
+  margin: 0 auto;
+}
+</style>
+
+<!-- headingDivider: 1 -->
+
+<!-- _class: title -->
+
+# Therapeutics and Safety in Medicine Management
+
+**PHRM1203**
+
+**Lecture 1:** Course Introduction and Medication Safety
+
+>© The University of Queensland 2025
+This content is protected and may not be shared, uploaded or distributed
+
+<!--
+header: PHRM1203 | Lecture 1: Course Introduction and Medication Safety
+footer: ![height:0.5in](./figs/UQlogo.jpeg) 
+-->
+
+ 
+# Acknowledgement of Country
+
+![bg right](./figs/UQFN2.jpeg)
+
+UQ acknowledges the Traditional Owners and their custodianship of the lands on which we meet today. We pay our respects to their Ancestors and their descendants, who continue cultural and spiritual connections to Country. We recognise their valuable contributions to Australian and global society.
+
+# Hello from your Course Coordinator!
+
+My name is **Will Olsen** (william.olsen@uq.edu.au)
+ - BPharm (Hons) and PhD (*under examination*) at UQ
+ - Lecturer in the School of Pharmacy and Pharmaceutical Sciences
+ - My research: pharmacy ethics, professional responsibility, pharmacy practice
+
+![bg right](figs/WO_Headshot.png)
+
+# Course staff
+
+**Dr Holly Foot**
+Lecturer - School of Pharmacy and Pharmaceutical Sciences
+
+**Dr Wubshet Tesfaye**
+Lecturer - School of Pharmacy and Pharmaceutical Sciences
+
+**Dr Shakti Shrestha**
+Lecturer - School of Pharmacy and Pharmaceutical Sciences
+
+**Dr Suzannah Brady**
+Lecturer - School of Nursing Midwifery and Social Work
+
+# Lecture Overview
+
+ - Introduction to the course
+   - Learning activities
+   - Assessment
+   - Answer any questions
+
+**Week 1 topic:** Medication Safety
+
+# Course aim: 
+
+## To introduce students to safe medication management practices by developing knowledge in clinical therapeutics and pharmacology and the processes and responsibilities of administering medications.
+
+<!-- footer: "" -->
+<!-- header: "" -->
+
+<style scoped>
+h1 {
+  color: white;
+}
+</style>
+
+<style scoped>
+h2 {
+  color: white;
+}
+</style>
+
+<style scoped>
+section {
+    background: rgb(75, 38, 118)
+}
+</style>
+
+# Learning objectives
+
+1. Explain principles that determine the **absorption, distribution, metabolism and excretion of medications.**
+2. Discuss how medications administered for their clinical use act on their target(s) to produce both beneficial **pharmacological actions and adverse drug reactions.**
+3. Demonstrate how the **mechanisms of actions and clinical use of medications** affect the **cardiovascular, gastrointestinal, renal, respiratory and nervous systems** when administered to patients.
+
+<!--
+header: PHRM1203 | Lecture 1: Course Introduction and Medication Safety
+footer: ![height:0.5in](./figs/UQlogo.jpeg) 
+-->
+
+# Learning objectives (cont.)
+
+4. Demonstrate the mechanisms of actions and clinical use of **antibiotic, antifungal, antiviral, anti-inflammatory and analgesic medications,** guide therapeutic use when administered to patients.
+5. Apply the principles that determine the **quality use of medicines** to patient therapy in healthcare including **complementary and alternative medicines.**
+6. Demonstrate the **legal, ethical and professional** requirements associated with quality use of medicine are part of safe nursing and midwifery practice.
+
+#
+
+![](figs/PHRM1203_Timetable_2025.png)
+
+<!-- footer: "" -->
+
+# Learning activities
+
+**UQ Extend:**
+ - The bulk of the **knowledge content**
+ - Week 1 to 11
+ - *All assessable content*
+
+**Lectures:**
+ - Interactive - Application of knowledge from UQ Extend
+ - Case scenarios, etc.
+ - 5x 2 hour lectures throughout semester
+ - *All assessable content*
+
+<!--
+header: PHRM1203 | Lecture 1: Course Introduction and Medication Safety
+footer: ![height:0.5in](./figs/UQlogo.jpeg) 
+-->
+
+# Learning activities (cont.)
+
+**Workshops:**
+ - Focus on working through cases
+ - 3x 2 hour workshops (Week 5, 7 and 9)
+ - Assessment during each workshop
+
+# UQ Extend
+
+- Provides the flexibility of self-paced learning wherever you like
+- Be thinking, questioning and reflecting as you watch, listen and read
+- Do the activities in UQ extend (knowledge checks give you an indication of how you are performing)
+- Lectures are useful to make sure you understand the key take-home points from UQ Extend content
+- Studying for 4x 1 hour sessions is better than 1x 4 hour session!
+- Need more help navigating UQ Extend and self-paced learning?
+   - *Book a one-on-one consult with a Learning Advisor through Student Hub*
+
+# Resources
+
+Australian medicines handbook
+
+MIMs
+
+Therapeutic Guidelines
+
+Accessible through [UQ Library](https://guides.library.uq.edu.au/pharmacy)
+
+
+# 
+
+![w:800 center](figs/PHRM1203_Assessment.png)
+
+<!-- footer: "" -->
+
+# Case studies
+
+3 x 5% group-based case studies to be completed during your assigned workshop
+
+ - Small groups (approx. 6 students)
+ - Inquiry-based learning case
+   - Medication safety principles
+   - Pharmacology
+   - Clinical Therapeutics
+   - Legal, ethical and professional practice
+ - Presentation
+ - Peer feedback
+
+![bg right w:200](figs/PHRM7203_workshop.png)
+
+<!--
+header: PHRM1203 | Lecture 1: Course Introduction and Medication Safety
+footer: ![height:0.5in](./figs/UQlogo.jpeg) 
+-->
+
+# Case Study Reflection Video
+
+**35% of overall grade**
+
+Find a case to reflect on:
+ - Identify a case from your experience (or provided examples) that involves medication safety
+ - Suitable cases can be from any clinical area but must involve medicines
+
+# End of Semester Written Exam
+
+**50% of overall grade**
+
+ - Inspera, online invigilated exam
+ - 90 minutes + 10 minutes planning
+ - During end of semester examination period
+
+> Practice exam will be provided via Blackboard on the Inspera platform
+
+# Any questions so far?
+
+# Week 1: Medication Safety
+
+<style scoped>
+h1 {
+  color: white;
+}
+</style>
+
+<style scoped>
+h2 {
+  color: white;
+}
+</style>
+
+<style scoped>
+section {
+    background: rgb(75, 38, 118)
+}
+</style>
+
+<!-- footer: "" -->
+<!-- header: "" -->
+
+# Learning Objectives
+
+- Describe the key principles of medication safety
+- Explain why medication errors occur
+- Explain the significance of medication errors
+- Reflect on medication incidents, errors and near misses in practice
+- Describe some of the approaches to medications safety to prevent errors
+- Describe some standardised systems to support medication safety such as the National Inpatient Medication Chart
+- Describe common high-risk medications and approaches to reduce medication incidents associated with these
+- Describe tools that evaluate medication administration by nurses and midwives to reduce errors
+
+<!--
+header: PHRM1203 | Lecture 1: Course Introduction and Medication Safety
+footer: ![height:0.5in](./figs/UQlogo.jpeg) 
+-->
+
+# Medication errors
+
+![bg right w:590](figs/Med_error.jpeg)
+
+Significant driver for medication-related harms
+
+ - Medical error is the 3rd leading cause of death in the US (Makary et al., 2016)
+
+[ref]
+
+# What is your role in medication safety?
+
+![bg right w:600](figs/Med_cycle.jpeg)
+
+* Administering
+* Monitoring
+
+# What is your role in medication safety?
+
+![bg right w:600](figs/Med_cycle.jpeg)
+
+- Administering
+- Monitoring
+
+> Do you have a role in prescribing and dispensing?
+
+# Terminology
+
+**Medication incident**
+- Any problem that arises in prescribing, dispensing or administering a medicine. They do not need to cause harm.
+
+**Medication error**
+ - Any preventable event that may cause or lead to inappropriate medication use or patient harm
+ - Can result in
+   - Adverse event
+   - Near miss where a patient is nearly harmed
+   - Neither harm not potential for harm
+
+# Terminology (cont.)
+
+**Adverse Drug Event (ADEs)**
+ - A medication incident that causes patient harm
+   - Includes harm caused by medication errors and harm caused by an expected (but unfortunate) side effect of the medication
+   - Classified in terms of severity, reversibility and preventability
+
+# Relationship between medication errors and ADEs
+
+![center w:600](figs/ADEs.jpeg)
+
+National Coordinating Council for Medication Error Reporting and Prevention (2015)
+
+# Human error is inevitable
+
+<style scoped>
+h1 {
+  color: white;
+}
+</style>
+
+<style scoped>
+section {
+    background: rgb(75, 38, 118)
+}
+</style>
+
+<!-- footer: "" -->
+<!-- header: "" -->
+
+# Models of care to address medication errors
+
+![center ](figs/SwissCheese_final.jpg)
+
+<!--
+header: PHRM1203 | Lecture 1: Course Introduction and Medication Safety
+footer: ![height:0.5in](./figs/UQlogo.jpeg) 
+-->
+
+# Case example: Daisy
+
+15 year-old female admitted to hospital following seizure
+
+**Treatment:** Levetiracetam infusion, midazolam, clonazepam
+
+> Order was not written by current treating team
+
+ - Order for clonazepam (not on imprest)
+
+![bg right w:500](figs/Clonazepam.jpeg)
+
+# Case example: Daisy
+
+* Two treating nurses were unfamiliar with the appropriate dose for clonazepam interpreted the prescription:
+  * `Clonazepam 2.5mg` (instead of 0.5mg)
+  * Administered 5x 0.5mg tablets
+* Patient transferred to ICU overnight for monitoring
+
+![bg right w:500](figs/Clonazepam.jpeg)
+
+# Case example: Deborah
+
+55 year old male post cardiothoracic surgery
+
+Registrar instructed by consultant to chart `bisoprolol`.
+
+Registrar unfamiliar with this medicine (usually used metoprolol) charts `bisoprolol 12.5mg`
+
+* Nurse administers `bisoprolol 12.5mg`
+* Patient outcome: bradycardia - needs temporary pacing
+
+![bg right w:600](figs/bisoprolol.jpeg)
+
+# How would you classify these?
+
+a. Medication incident
+b. Medication error
+c. A near miss
+d. An Adverse Drug Event
+
+![bg right w:500](figs/UQPoll_QR.jpeg)
+
+# A pharmacist example
+
+![](figs/Barca.jpeg)
+
+# Where do these errors occur?
+
+> A midwife is about to administer a prescribed dose of 600mg of benzylpenicillin for prevention of Group B streptococcal disease. The order is for 600mg every 4 hours until birth. The midwife checks the protocol and realises the recommended dose is 1.8 grams every 4 hours until birth. The midwife contacts the prescriber and the medication order is changed.
+
+<!-- Where did it occur? Where did it get picked up? -->
+
+![bg right w:600](figs/Med_cycle.jpeg)
+
+# Medicines management is complex
+
+<style scoped>
+h1 {
+  color: white;
+}
+</style>
+
+<style scoped>
+section {
+    background: rgb(75, 38, 118)
+}
+</style>
+
+<!-- footer: "" -->
+<!-- header: "" -->
+
+# What can we do to minimise medication error?
+
+![bg right w:500](figs/qr_code_1203L1padlet.png)
+
+Write down some practical ways we can prevent medication-related harms from occuring
+
+<!--
+header: PHRM1203 | Lecture 1: Course Introduction and Medication Safety
+footer: ![height:0.5in](./figs/UQlogo.jpeg) 
+-->
+
+# Approaches to medication safety
+
+ - Standardised medication charts
+ - IV safety software (live/labels)
+ - The 5/6 rights
+ - Involve the patient/consumer
+
+# Frequent sources of medication errors
+
+ - Incorrect strength of medication given when multiple are stocked
+ - Immediate release vs. slow release
+ - Medication patches
+ - Similar names
+
+# Know, check, ask
+
+**Know** what you are giving and where to go if you don't (AMH, MIMs, ward pharmacist)
+
+**Check** requirements for legal prescription
+
+**Ask** the patient (and involve them)
+
+# National and state-level standards
+
+ - 5 rights
+ - 6 rights - Right to...:
+   - Patient
+   - Drug
+   - Dose
+   - Route
+   - Time
+   - Refuse
+ - Hospital-specific guidelines
+
+# Thanks! Any Questions?
+
+<style scoped>
+h1 {
+  color: white;
+}
+</style>
+
+<style scoped>
+section {
+    background: rgb(75, 38, 118)
+}
+</style>
+
+<!-- footer: "" -->
+<!-- header: "" -->
+
